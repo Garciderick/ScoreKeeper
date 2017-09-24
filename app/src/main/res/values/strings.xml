@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="score_move_payload">Move\nthat\npayload!!!</string>
+    <string name="first_checkpoint">checkpoint 1</string>
+    <string name="second_checkpoint">checkpoint 2</string>
+    <string name="third_checkpoint">checkpoint 3</string>
+    <string name="alert_title">Easter egg :D!</string>
+    <string name="alert_message">Hey there is a little easter egg here,\npress the icon on the top right corner \nof the video to listen to the video\'s song :D!</string>
+    <string name="accept_button_text">Got it!</string>
+</resources>
